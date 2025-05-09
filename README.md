@@ -58,6 +58,14 @@ These models are evaluated on the **MNIST dataset** to assess their effectivenes
 - **Instructor:** [Dr. Rui Xie]  
 - **Term:** [Fall 2025]
 
+## 📖 Citation
+
+If you use this work, please cite:
+
+- **Deb, Dipok**. *"Handwritten Digit Recognition using Machine Learning"* (2025). *Data Science and Data Mining*. **40**.  
+> [https://stars.library.ucf.edu/data-science-mining/40](https://stars.library.ucf.edu/data-science-mining/40)
+
+
 ## Contact
 
 For questions or collaborations, feel free to reach out via [GitHub Issues](https://github.com/Dipok009/Hand-Written-Digit-Recognition) or connect on [LinkedIn](https://www.linkedin.com/in/dipok-deb/).
