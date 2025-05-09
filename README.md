@@ -1,6 +1,6 @@
 # Hand-Written-Digit-Recognition
 
-This project was completed as part of **STA 6366: Data Science I** at the University of Central Florida.
+This project was completed as part of **STA 6366: Data Science I** at the University of Central Florida. The initial goal was to apply probabilistic machine learning algorithms for classifying handwritten digits.
 
 ## Overview
 
