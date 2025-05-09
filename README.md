@@ -58,7 +58,7 @@ These models are evaluated on the **MNIST dataset** to assess their effectivenes
 - **Instructor:** [Dr. Rui Xie]  
 - **Term:** [Fall 2025]
 
-## 📖 Citation
+## Citation
 
 If you use this work, please cite:
 
