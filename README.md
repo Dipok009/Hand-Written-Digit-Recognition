@@ -56,7 +56,7 @@ These models are evaluated on the **MNIST dataset** to assess their effectivenes
 - **Course:** STA 6366 – Data Science I  
 - **Institution:** Department of Statistics and Data Science, University of Central Florida.  
 - **Instructor:** [Dr. Rui Xie]  
-- **Term:** [Fall 2025]
+- **Term:** [Fall 2024]
 
 ## Citation
 
